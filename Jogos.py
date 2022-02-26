@@ -6,6 +6,8 @@ def escolhe_jogo():
     print("*******Escolha o seu Jogo!*******")
     print("*********************************")
 
+    print("Inicia Git")
+
     print("(1) Forca (2) Adivinhação")
 
 
